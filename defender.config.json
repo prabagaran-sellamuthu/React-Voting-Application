@@ -3,10 +3,6 @@
         "enabled": true,
         "scan_directories": [
             "contracts"
-        ],
-        "exclude_rules": [
-            "naming-convention",
-            "unusued-state"
         ]
     },
     "dependency_checker": {
